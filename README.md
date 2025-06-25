@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm 
-<h1>Abu Jakaria</h1>
+<h1>Shahrin Akther</h1>
 <h3>Web Developer</h3>  
 <br/>
 <p align="left"> <img height='400px' width='100%' src="banner.jpeg" alt="abujakariacse" /> </p>
