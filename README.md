@@ -3,7 +3,7 @@
 
 <h3>Web Developer</h3>  
 <br/>
-<p align="left"> <img height='300px' width='100%' src="banner.jpeg" alt="abujakariacse" /> </p>
+<p align="left"> <img height='400px' width='100%' src="banner.jpeg" alt="abujakariacse" /> </p>
 
 
 <h3 align="center">A passionate Fullstack developer ( MERN ) from Sylhet, Bangladesh</h3>
