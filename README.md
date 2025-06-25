@@ -1,6 +1,5 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Shahrin Akther</h1>
-
+### Hi there 👋, I'm 
+<h1>Abu Jakaria</h1>
 <h3>Web Developer</h3>  
 <br/>
 <p align="left"> <img height='400px' width='100%' src="banner.jpeg" alt="abujakariacse" /> </p>
@@ -10,7 +9,6 @@
 
 
 ## 🌐 Socials:
-<!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ShahrinTarin Rahman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shahrin_tarin)  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
