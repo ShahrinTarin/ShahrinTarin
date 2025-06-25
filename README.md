@@ -3,7 +3,18 @@
 <h3>Web Developer</h3>  
 <br/>
 <p align="left"> <img height='400px' width='100%' src="banner.jpeg" alt="abujakariacse" /> </p>
+<br/>  
+  
+Assalamu Alaikum , I am Shahrin Akther, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development. Over the past 9 month, I have been honing my skills in MERN Stack web development, specializing in React.js for front-end development.
+  
+<br/>
 
+- 🌱 I’m currently learning *ThreeJs*
+
+- 📫 How to reach me *rahmanshahrintarin@gmail.com*
+
+
+<br/>
 
 <h3 align="center">A passionate Fullstack developer ( MERN ) from Sylhet, Bangladesh</h3>
 
