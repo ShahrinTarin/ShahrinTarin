@@ -14,9 +14,8 @@ Assalamu Alaikum , I am Shahrin Akther, a dedicated and enthusiastic React front
 
 ## 📬 Reach Me Out
 <br/>
-[![LinkedIn](https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Linkedin.png)](https://www.linkedin.com/in/shahrintarin-rahman/)
-[![Facebook](https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Facebook.png)](https://www.facebook.com/profile.php?id=61570044629513)
-[![Twitter](https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Twitter.png)](https://twitter.com/_)
+<p><a href="https://github.com/ShahrinTarin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> <a href="https://www.linkedin.com/in/shahrintarin-rahman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 
 <br/>
