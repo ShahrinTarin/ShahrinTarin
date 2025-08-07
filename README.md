@@ -12,8 +12,13 @@ Assalamu Alaikum , I am Shahrin Akther, a dedicated and enthusiastic React front
 
 - 🌱 I’m currently learning *ThreeJs*
 
-- 📫 How to reach me *rahmanshahrintarin@gmail.com*
+## :mailbox: Reach me out
 
+<br />
+
+[<p align="center"><img height="75" src="https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/shahrintarin-rahman/)[<img height="75" src="https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Facebook.png">](https://www.facebook.com/profile.php?id=61570044629513)[<img height="75" src="https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_)
+
+<br />
 
 <br/>
 
