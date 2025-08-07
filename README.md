@@ -2,7 +2,7 @@
 <h1>Shahrin Akther</h1>
 <h3>Web Developer</h3>  
 <br/>
-<p align="left"> <img height='400px' width='100%' src="banner.jpeg" alt="shahrinakther" /> </p>
+<p align="left"> <img height='400px' width='100%' src="Banner.png" alt="shahrinakther" /> </p>
 <h3 align="center">A passionate Fullstack developer ( MERN ) from Sylhet, Bangladesh</h3>
 <br/>  
   
