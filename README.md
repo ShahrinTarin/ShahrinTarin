@@ -14,11 +14,20 @@ Assalamu Alaikum , I am Shahrin Akther, a dedicated and enthusiastic React front
 
 ## :mailbox: Reach me out
 
-<br />
+<br/>
 
-[<p align="center"><img height="75" src="https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/shahrintarin-rahman/)[<img height="75" src="https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Facebook.png">](https://www.facebook.com/profile.php?id=61570044629513)[<img height="75" src="https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahrintarin-rahman/">
+    <img height="75" src="https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Linkedin.png">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61570044629513">
+    <img height="75" src="https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Facebook.png">
+  </a>
+  <a href="https://twitter.com/_">
+    <img height="75" src="https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Twitter.png">
+  </a>
+</p>
 
-<br />
 
 <br/>
 
