@@ -12,21 +12,11 @@ Assalamu Alaikum , I am Shahrin Akther, a dedicated and enthusiastic React front
 
 - 🌱 I’m currently learning *ThreeJs*
 
-## :mailbox: Reach me out
-
+## 📬 Reach Me Out
 <br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahrintarin-rahman/">
-    <img height="75" src="https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Linkedin.png">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61570044629513">
-    <img height="75" src="https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Facebook.png">
-  </a>
-  <a href="https://twitter.com/_">
-    <img height="75" src="https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Twitter.png">
-  </a>
-</p>
+[![LinkedIn](https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Linkedin.png)](https://www.linkedin.com/in/shahrintarin-rahman/)
+[![Facebook](https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Facebook.png)](https://www.facebook.com/profile.php?id=61570044629513)
+[![Twitter](https://github.com/ShahrinTarin/ShahrinTarin/blob/main/images/icons/Twitter.png)](https://twitter.com/_)
 
 
 <br/>
