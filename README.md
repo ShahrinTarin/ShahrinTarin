@@ -106,7 +106,7 @@ const shahrin = {
 
 ### 🔷 [FitFolio](https://fitfolio-by-shahrin.web.app/) — Fitness Trainer Booking Platform
 
-> A full-featured platform connecting fitness enthusiasts with professional trainers — book classes, manage schedules, and pay securely, all in one place.
+> A full-featured platform connecting fitness enthusiasts with professional trainers — book classes, manage schedules, and pay securely.
 
 **Stack:** `React` `JavaScript` `Firebase` `Node.js` `MongoDB` `Express.js` `JWT` `Stripe API`
 
@@ -124,7 +124,7 @@ const shahrin = {
 
 ### 🔷 [MathMatter](https://mathmatter-by-shahrin-tarin.web.app/) — Interactive Math Learning App
 
-> An interactive platform that makes learning mathematics engaging through practice tools, problem sets, visualizations, and progress tracking.
+> An interactive platform that makes learning mathematics engaging through practice tools, problem sets, and progress tracking.
 
 **Stack:** `React` `JavaScript` `Firebase` `MongoDB` `Node.js` `Express.js` `React Router` `JWT`
 
@@ -162,25 +162,39 @@ const shahrin = {
 
 <div align="center">
 
+### 📊 My GitHub Stats
+
+</div>
+
+<!-- Row 1: Stats card + Top Languages -->
+<div align="center">
+
 <a href="https://github.com/ShahrinTarin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrinTarin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4F8EF7&text_color=c9d1d9&langs_count=8" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+&nbsp;&nbsp;
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrinTarin&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8EF7&text_color=c9d1d9&langs_count=8" />
 </a>
 
 </div>
 
+<br/>
+
+<!-- Row 2: Streak stats full width -->
 <div align="center">
 
 <a href="https://github.com/ShahrinTarin">
-  <img width="480" src="https://nirzak-streak-stats.vercel.app/?user=ShahrinTarin&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=4F8EF7&ring=4F8EF7&fire=F7C94F&currStreakLabel=4F8EF7&sideLabels=4F8EF7&dates=8b949e" />
+  <img width="55%" src="https://nirzak-streak-stats.vercel.app/?user=ShahrinTarin&theme=tokyonight&hide_border=true&background=0d1117&stroke=4F8EF7&ring=4F8EF7&fire=FFB800&currStreakLabel=4F8EF7&sideLabels=4F8EF7&dates=8b949e&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </a>
 
 </div>
 
+<br/>
+
+<!-- Row 3: GitHub Trophies -->
 <div align="center">
 
 <a href="https://github.com/ShahrinTarin">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahrinTarin&bg_color=0d1117&color=4F8EF7&line=1a3a7c&point=4F8EF7&area=true&area_color=1a3a7c&hide_border=true&custom_title=Contribution+Graph" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ShahrinTarin&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </a>
 
 </div>
@@ -197,6 +211,7 @@ const shahrin = {
 | 💼 | **LinkedIn** | [in/shahrintarin-rahman](https://www.linkedin.com/in/shahrintarin-rahman) |
 | 🐙 | **GitHub** | [github.com/ShahrinTarin](https://github.com/ShahrinTarin) |
 | 📧 | **Email** | [rahmanshahrintarin@gmail.com](mailto:rahmanshahrintarin@gmail.com) |
+| 📘 | **Facebook** | [ShahrinTarin Rahman](https://facebook.com/ShahrinTarin) |
 
 </div>
 
