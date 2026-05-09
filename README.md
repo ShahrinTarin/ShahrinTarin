@@ -170,8 +170,8 @@ const shahrin = {
 
 <div align="center">
 
-<!-- Streak: nirzak is a reliable fork -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=ShahrinTarin&theme=tokyonight&hide_border=true" />
+<!-- Streak -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahrinTarin&theme=tokyonight" />
 
 </div>
 
