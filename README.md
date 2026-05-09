@@ -63,6 +63,7 @@ const shahrin = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1b3e?style=for-the-badge&logo=postgresql&logoColor=4F8EF7)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0d1b3e?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1b3e?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Express.js](https://img.shields.io/badge/Express.js-0d1b3e?style=for-the-badge&logo=express&logoColor=white)
 
 **⬡ DevOps & Infrastructure**
 
@@ -71,10 +72,89 @@ const shahrin = {
 ![Git](https://img.shields.io/badge/Git-0d1b3e?style=for-the-badge&logo=git&logoColor=F05032)
 ![Postman](https://img.shields.io/badge/Postman-0d1b3e?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-**⬡ Design & Auth**
+**⬡ Auth & Design**
 
-![Figma](https://img.shields.io/badge/Figma-0d1b3e?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1b3e?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![NextAuth](https://img.shields.io/badge/NextAuth-0d1b3e?style=for-the-badge&logo=next.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-0d1b3e?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-0d1b3e?style=for-the-badge&logo=stripe&logoColor=635BFF)
+![Figma](https://img.shields.io/badge/Figma-0d1b3e?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+---
+
+## 〔 Featured Projects 〕
+
+<br/>
+
+### 🔷 [VisionMart](https://vision-mart.vercel.app/) — AI-Powered E-Commerce Platform
+
+> An intelligent shopping platform where admins can generate product images using AI, making product listing faster and smarter.
+
+**Stack:** `Next.js` `TypeScript` `NextAuth` `Mongoose` `Node.js` `Express.js` `PNPM`
+
+| Feature | Detail |
+|---|---|
+| 🔍 Discovery | Advanced search with category filters |
+| 🤖 AI Integration | Admin-side AI image generation for products |
+| 🛡️ Auth | Secure NextAuth authentication & authorization |
+| 📦 Admin | Full dashboard with order management system |
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d1b3e?style=for-the-badge&logo=vercel&logoColor=white)](https://vision-mart.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-0d1b3e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahalsuad/vision-mart)
+
+---
+
+### 🔷 [FitFolio](https://fitfolio-by-shahrin.web.app/) — Fitness Trainer Booking Platform
+
+> A full-featured platform connecting fitness enthusiasts with professional trainers — book classes, manage schedules, and pay securely, all in one place.
+
+**Stack:** `React` `JavaScript` `Firebase` `Node.js` `MongoDB` `Express.js` `JWT` `Stripe API`
+
+| Feature | Detail |
+|---|---|
+| 👥 Roles | Separate dashboards for Users, Trainers & Admins |
+| 💳 Payments | Real-time Stripe payment + booking confirmation |
+| 📊 Analytics | Revenue, transactions & user growth tracking |
+| 🛡️ Security | JWT-secured routes and role-based permissions |
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d1b3e?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://fitfolio-by-shahrin.web.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-0d1b3e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahrinTarin/FitFolio)
+
+---
+
+### 🔷 [MathMatter](https://mathmatter-by-shahrin-tarin.web.app/) — Interactive Math Learning App
+
+> An interactive platform that makes learning mathematics engaging through practice tools, problem sets, visualizations, and progress tracking.
+
+**Stack:** `React` `JavaScript` `Firebase` `MongoDB` `Node.js` `Express.js` `React Router` `JWT`
+
+| Feature | Detail |
+|---|---|
+| 🔎 Filtering | Filter blogs by category or title via query params |
+| 📝 CRUD | Add, edit, delete & comment with real-time updates |
+| 🏆 Discovery | Rank blogs by description length |
+| ✨ UX | Motion animations and interactive tooltips |
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d1b3e?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://mathmatter-by-shahrin-tarin.web.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-0d1b3e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahrinTarin/mathematter)
+
+---
+
+### 🔷 [StoveStories](https://stovestories-1a7e6.web.app/) — Community Recipe Sharing Platform
+
+> A vibrant recipe book platform where food lovers share, explore, and save recipes — connecting communities through cooking stories.
+
+**Stack:** `React` `JavaScript` `Firebase` `MongoDB` `Node.js` `Express.js` `React Router`
+
+| Feature | Detail |
+|---|---|
+| 🍳 UGC | User-generated recipes with images, times & categories |
+| ❤️ Interaction | Like, edit, delete recipes with real-time updates |
+| 📚 Collections | Personalized recipe collections filtered by user |
+| ✨ UX | Tooltips and smooth animations throughout |
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0d1b3e?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://stovestories-1a7e6.web.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-0d1b3e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahrinTarin/StoveStore)
 
 ---
 
@@ -107,59 +187,6 @@ const shahrin = {
 
 ---
 
-## 〔 Featured Projects 〕
-
-> ✦ *Replace these with your real projects — the more specific, the better.*
-
-<table>
-<tr>
-<td width="50%">
-
-**🔷 Project Alpha**
-> Fullstack app with Next.js App Router, Drizzle ORM + PostgreSQL, deployed via Docker & GitHub Actions CI/CD.
-
-`Next.js` `TypeScript` `PostgreSQL` `Docker`
-
-[🔗 Repo](https://github.com/ShahrinTarin) · [🌐 Live](https://shahrinportfolio.netlify.app/)
-
-</td>
-<td width="50%">
-
-**🔷 Project Beta**
-> REST API backend with Express, PostgreSQL, JWT auth, containerized with Docker Compose.
-
-`Node.js` `PostgreSQL` `Drizzle ORM` `Docker`
-
-[🔗 Repo](https://github.com/ShahrinTarin) · [🌐 Live](https://shahrinportfolio.netlify.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔷 Project Gamma**
-> React + Three.js interactive 3D experience — exploring WebGL and modern browser APIs.
-
-`React` `Three.js` `TypeScript` `Vite`
-
-[🔗 Repo](https://github.com/ShahrinTarin)
-
-</td>
-<td width="50%">
-
-**🔷 Project Delta**
-> MERN fullstack with Firebase auth, real-time updates, and Figma-designed UI.
-
-`React` `Node.js` `MongoDB` `Firebase`
-
-[🔗 Repo](https://github.com/ShahrinTarin)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 〔 Connect 〕
 
 <div align="center">
@@ -170,7 +197,6 @@ const shahrin = {
 | 💼 | **LinkedIn** | [in/shahrintarin-rahman](https://www.linkedin.com/in/shahrintarin-rahman) |
 | 🐙 | **GitHub** | [github.com/ShahrinTarin](https://github.com/ShahrinTarin) |
 | 📧 | **Email** | [rahmanshahrintarin@gmail.com](mailto:rahmanshahrintarin@gmail.com) |
-| 📘 | **Facebook** | [ShahrinTarin Rahman](https://facebook.com/ShahrinTarin) |
 
 </div>
 
