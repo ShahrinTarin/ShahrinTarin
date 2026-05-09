@@ -170,8 +170,21 @@ const shahrin = {
 
 <div align="center">
 
-<!-- Streak -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahrinTarin&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahrinTarin&theme=transparent" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahrinTarin&theme=transparent" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahrinTarin&theme=transparent" height="180em" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahrinTarin&theme=transparent" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahrinTarin&theme=transparent&utcOffset=6" height="180em" />
 
 </div>
 
