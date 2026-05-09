@@ -162,40 +162,34 @@ const shahrin = {
 
 <div align="center">
 
-### 📊 My GitHub Stats
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
+</picture>
+<picture>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrinTarin&layout=donut&hide_border=true&bg_color=0d1117&title_color=4F8EF7&text_color=c9d1d9&langs_count=8&theme=tokyonight" />
+</picture>
 
 </div>
 
-<!-- Row 1: Stats card + Top Languages -->
 <div align="center">
 
-<a href="https://github.com/ShahrinTarin">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-&nbsp;&nbsp;
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrinTarin&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8EF7&text_color=c9d1d9&langs_count=8" />
-</a>
+<picture>
+  <img width="56%" src="https://nirzak-streak-stats.vercel.app/?user=ShahrinTarin&hide_border=true&background=0d1117&stroke=4F8EF7&ring=4F8EF7&fire=FFB800&currStreakLabel=4F8EF7&sideLabels=4F8EF7&dates=8b949e&currStreakNum=FFFFFF&sideNums=FFFFFF&theme=tokyonight" />
+</picture>
 
 </div>
 
-<br/>
-
-<!-- Row 2: Streak stats full width -->
 <div align="center">
 
-<a href="https://github.com/ShahrinTarin">
-  <img width="55%" src="https://nirzak-streak-stats.vercel.app/?user=ShahrinTarin&theme=tokyonight&hide_border=true&background=0d1117&stroke=4F8EF7&ring=4F8EF7&fire=FFB800&currStreakLabel=4F8EF7&sideLabels=4F8EF7&dates=8b949e&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- Row 3: GitHub Trophies -->
-<div align="center">
-
-<a href="https://github.com/ShahrinTarin">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ShahrinTarin&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShahrinTarin&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=4&margin-h=4)](https://github.com/ShahrinTarin)
 
 </div>
 
