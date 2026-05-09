@@ -182,8 +182,6 @@ const shahrin = {
 
 </div>
 
-> ⚠️ **Note for you:** If the stats cards still show broken after pushing to GitHub, go to [github-readme-stats.vercel.app](https://github-readme-stats.vercel.app) and deploy your **own free instance** on Vercel — it takes 2 minutes and will never rate-limit you again. Instructions: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance)
-
 ---
 
 ## 〔 Connect 〕
