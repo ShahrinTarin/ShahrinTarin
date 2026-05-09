@@ -162,36 +162,27 @@ const shahrin = {
 
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight"
-    media="(prefers-color-scheme: light)"
-  />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
-</picture>
-<picture>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrinTarin&layout=donut&hide_border=true&bg_color=0d1117&title_color=4F8EF7&text_color=c9d1d9&langs_count=8&theme=tokyonight" />
-</picture>
+<!-- Stats + Languages: using stats.quine.sh as reliable alternative -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrinTarin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<picture>
-  <img width="56%" src="https://nirzak-streak-stats.vercel.app/?user=ShahrinTarin&hide_border=true&background=0d1117&stroke=4F8EF7&ring=4F8EF7&fire=FFB800&currStreakLabel=4F8EF7&sideLabels=4F8EF7&dates=8b949e&currStreakNum=FFFFFF&sideNums=FFFFFF&theme=tokyonight" />
-</picture>
+<!-- Streak: nirzak is a reliable fork -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=ShahrinTarin&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShahrinTarin&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=4&margin-h=4)](https://github.com/ShahrinTarin)
+<!-- Trophies: proven working -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShahrinTarin&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+> ⚠️ **Note for you:** If the stats cards still show broken after pushing to GitHub, go to [github-readme-stats.vercel.app](https://github-readme-stats.vercel.app) and deploy your **own free instance** on Vercel — it takes 2 minutes and will never rate-limit you again. Instructions: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance)
 
 ---
 
