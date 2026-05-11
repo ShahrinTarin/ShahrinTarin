@@ -34,7 +34,7 @@ const shahrin = {
 
   stack: {
     frontend:  ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    backend:   ["Node.js", "Express", "REST APIs", "GraphQL"],
+    backend:   ["Node.js", "Express", "REST APIs"],
     database:  ["PostgreSQL", "Drizzle ORM", "MongoDB"],
     devops:    ["Docker", "GitHub Actions", "CI/CD"],
     tools:     ["Figma", "Postman", "Firebase", "Git"],
