@@ -153,7 +153,6 @@ const shahrin = {
 | 💼 | **LinkedIn** | [in/shahrintarin-rahman](https://www.linkedin.com/in/shahrintarin-rahman) |
 | 🐙 | **GitHub** | [github.com/ShahrinTarin](https://github.com/ShahrinTarin) |
 | 📧 | **Email** | [rahmanshahrintarin@gmail.com](mailto:rahmanshahrintarin@gmail.com) |
-| 📘 | **Facebook** | [ShahrinTarin Rahman](https://facebook.com/ShahrinTarin) |
 
 </div>
 
