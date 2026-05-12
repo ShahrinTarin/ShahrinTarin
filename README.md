@@ -104,60 +104,6 @@ const shahrin = {
 
 ---
 
-### 🔷 [FitFolio](https://fitfolio-by-shahrin.web.app/) — Fitness Trainer Booking Platform
-
-> A full-featured platform connecting fitness enthusiasts with professional trainers — book classes, manage schedules, and pay securely.
-
-**Stack:** `React` `JavaScript` `Firebase` `Node.js` `MongoDB` `Express.js` `JWT` `Stripe API`
-
-| Feature | Detail |
-|---|---|
-| 👥 Roles | Separate dashboards for Users, Trainers & Admins |
-| 💳 Payments | Real-time Stripe payment + booking confirmation |
-| 📊 Analytics | Revenue, transactions & user growth tracking |
-| 🛡️ Security | JWT-secured routes and role-based permissions |
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0d1b3e?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://fitfolio-by-shahrin.web.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-0d1b3e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahrinTarin/FitFolio)
-
----
-
-### 🔷 [MathMatter](https://mathmatter-by-shahrin-tarin.web.app/) — Interactive Math Learning App
-
-> An interactive platform that makes learning mathematics engaging through practice tools, problem sets, and progress tracking.
-
-**Stack:** `React` `JavaScript` `Firebase` `MongoDB` `Node.js` `Express.js` `React Router` `JWT`
-
-| Feature | Detail |
-|---|---|
-| 🔎 Filtering | Filter blogs by category or title via query params |
-| 📝 CRUD | Add, edit, delete & comment with real-time updates |
-| 🏆 Discovery | Rank blogs by description length |
-| ✨ UX | Motion animations and interactive tooltips |
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0d1b3e?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://mathmatter-by-shahrin-tarin.web.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-0d1b3e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahrinTarin/mathematter)
-
----
-
-### 🔷 [StoveStories](https://stovestories-1a7e6.web.app/) — Community Recipe Sharing Platform
-
-> A vibrant recipe book platform where food lovers share, explore, and save recipes — connecting communities through cooking stories.
-
-**Stack:** `React` `JavaScript` `Firebase` `MongoDB` `Node.js` `Express.js` `React Router`
-
-| Feature | Detail |
-|---|---|
-| 🍳 UGC | User-generated recipes with images, times & categories |
-| ❤️ Interaction | Like, edit, delete recipes with real-time updates |
-| 📚 Collections | Personalized recipe collections filtered by user |
-| ✨ UX | Tooltips and smooth animations throughout |
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0d1b3e?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://stovestories-1a7e6.web.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-0d1b3e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahrinTarin/StoveStore)
-
----
-
 ## 〔 GitHub Stats 〕
 
 <div align="center">
@@ -218,8 +164,6 @@ const shahrin = {
 ```
 { CODE  •  BUILD  •  DEPLOY  •  IMPACT }
 ```
-
-*Crafted with intention from Sylhet 🇧🇩 · Powered by caffeine · Deployed with Docker 🐳*
 
 [![](https://visitcount.itsvg.in/api?id=ShahrinTarin&icon=6&color=1)](https://visitcount.itsvg.in)
 
