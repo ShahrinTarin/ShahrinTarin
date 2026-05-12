@@ -109,8 +109,8 @@ const shahrin = {
 <div align="center">
 
 <!-- Stats + Languages: using stats.quine.sh as reliable alternative -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrinTarin&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&theme=transparent&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrinTarin&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
