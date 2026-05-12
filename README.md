@@ -37,7 +37,7 @@ const shahrin = {
     backend:   ["Node.js", "Express", "REST APIs"],
     database:  ["PostgreSQL", "Drizzle ORM", "MongoDB"],
     devops:    ["Docker", "GitHub Actions", "CI/CD"],
-    tools:     ["Figma", "Postman", "Firebase", "Git"],
+    tools:     ["Figma", "Postman", "Firebase", "Git","Stripe"],
   },
 
   currentlyLearning: ["Three.js", "System Design", "Cloud Infra"],
