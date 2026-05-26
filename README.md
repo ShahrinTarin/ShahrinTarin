@@ -84,8 +84,10 @@ const shahrin = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrinTarin&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahrinTarin&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahrinTarin&theme=tokyonight" />
+
+<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahrinTarin&theme=tokyonight" />
 
 </div>
 
