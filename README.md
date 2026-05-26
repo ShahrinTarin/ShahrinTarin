@@ -84,8 +84,8 @@ const shahrin = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&theme=transparent&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrinTarin&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrinTarin&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" />
 
 </div>
 
