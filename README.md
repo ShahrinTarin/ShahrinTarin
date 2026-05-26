@@ -4,15 +4,12 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Next.js+%7C+TypeScript+%7C+PostgreSQL+%7C+Docker;Drizzle+ORM+%7C+CI%2FCD+%7C+Clean+Architecture;Building+scalable+apps+from+Sylhet%2C+BD+%F0%9F%87%A7%F0%9F%87%A9;Code+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Impact)](https://github.com/ShahrinTarin)
+# Shahrin Akther
+### Full Stack Developer · Sylhet, Bangladesh 🇧🇩
 
-</div>
-
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Next.js+%7C+TypeScript+%7C+PostgreSQL+%7C+Prisma;Drizzle+ORM+%7C+Docker+%7C+CI%2FCD;Building+scalable+apps+from+Sylhet%2C+BD+%F0%9F%87%A7%F0%9F%87%A9;Code+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Impact)](https://github.com/ShahrinTarin)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ShahrinTarin&label=Profile+Views&color=0d1b3e&style=flat-square&labelColor=1a3a7c)](https://github.com/ShahrinTarin)
 [![GitHub followers](https://img.shields.io/github/followers/ShahrinTarin?label=Followers&style=flat-square&color=0d1b3e&labelColor=1a3a7c&logo=github&logoColor=white)](https://github.com/ShahrinTarin)
@@ -27,17 +24,17 @@
 
 ```typescript
 const shahrin = {
-  name:      "Shahrin Akther",
-  title:     "Full Stack Developer",
-  location:  "Sylhet, Bangladesh 🇧🇩",
-  greeting:  "Assalamu Alaikum 👋",
+  name:     "Shahrin Akther",
+  title:    "Full Stack Developer",
+  location: "Sylhet, Bangladesh 🇧🇩",
+  greeting: "Assalamu Alaikum 👋",
 
   stack: {
     frontend:  ["Next.js", "React", "TypeScript", "Tailwind CSS"],
     backend:   ["Node.js", "Express", "REST APIs"],
-    database:  ["PostgreSQL", "Drizzle ORM", "MongoDB"],
+    database:  ["PostgreSQL", "Prisma", "Drizzle ORM", "MongoDB"],
     devops:    ["Docker", "GitHub Actions", "CI/CD"],
-    tools:     ["Figma", "Postman", "Firebase", "Git","Stripe"],
+    tools:     ["Figma", "Postman", "Firebase", "Git", "Stripe"],
   },
 
   currentlyLearning: ["Three.js", "System Design", "Cloud Infra"],
@@ -61,6 +58,7 @@ const shahrin = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1b3e?style=for-the-badge&logo=node.js&logoColor=68A063)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1b3e?style=for-the-badge&logo=postgresql&logoColor=4F8EF7)
+![Prisma](https://img.shields.io/badge/Prisma-0d1b3e?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0d1b3e?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1b3e?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Express.js](https://img.shields.io/badge/Express.js-0d1b3e?style=for-the-badge&logo=express&logoColor=white)
@@ -82,9 +80,28 @@ const shahrin = {
 
 ---
 
-## 〔 Featured Projects 〕
+## 〔 GitHub Stats 〕
 
-<br/>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&theme=transparent&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrinTarin&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
+
+</div>
+
+---
+
+## 〔 Contribution Streak 〕
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShahrinTarin&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=4F8EF7&fire=4F8EF7&currStreakLabel=4F8EF7&sideLabels=4F8EF7&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 〔 Featured Projects 〕
 
 ### 🔷 [VisionMart](https://vision-mart.vercel.app/) — AI-Powered E-Commerce Platform
 
@@ -101,45 +118,6 @@ const shahrin = {
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0d1b3e?style=for-the-badge&logo=vercel&logoColor=white)](https://vision-mart.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source_Code-0d1b3e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahalsuad/vision-mart)
-
----
-
-## 〔 GitHub Stats 〕
-
-<div align="center">
-
-<!-- Stats + Languages: using stats.quine.sh as reliable alternative -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahrinTarin&theme=transparent&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrinTarin&theme=transparent&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahrinTarin&theme=transparent" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahrinTarin&theme=transparent" height="180em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahrinTarin&theme=transparent" height="180em" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahrinTarin&theme=transparent" height="180em" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShahrinTarin&theme=transparent&utcOffset=6" height="180em" />
-
-</div>
-
-<div align="center">
-
-<!-- Trophies: proven working -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShahrinTarin&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
