@@ -87,7 +87,6 @@ const shahrin = {
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahrinTarin&theme=github_dark" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahrinTarin&theme=github_dark" />
 
-<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahrinTarin&theme=github_dark" />
 
 </div>
 
